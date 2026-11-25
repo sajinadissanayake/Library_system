@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20261124145153_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BMS\\Migrations\\20261124145153_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20260529055632_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BMS\\Migrations\\20260529055632_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|c:\\users\\user\\source\\repos\\crud temp\\bms\\bms\\migrations\\20260529060628_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9151AC5-66AD-4D07-BDA5-26245C374DAF}|BMS\\BMS.csproj|solutionrelative:bms\\migrations\\20260529060628_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 261,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:43:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\IssueController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\IssueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:42:00.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "BMS\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Issue.cs",
+              "RelativeToolTip": "BMS\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:39:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:24:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Program.cs",
+              "RelativeDocumentMoniker": "BMS\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Program.cs",
+              "RelativeToolTip": "BMS\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T05:04:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BMS\\Models\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "BMS\\Models\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:38:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:28:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BMS\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Member.cs",
+              "RelativeToolTip": "BMS\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:19:45.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BMS\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Models\\Book.cs",
+              "RelativeToolTip": "BMS\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:44:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BMS\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BMS\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA7wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:36:03.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261124145153_UpdateBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20261124145153_UpdateBookModel.cs",
+              "RelativeDocumentMoniker": "BMS\\Migrations\\20261124145153_UpdateBookModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20261124145153_UpdateBookModel.cs",
+              "RelativeToolTip": "BMS\\Migrations\\20261124145153_UpdateBookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:51:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260529060628_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20260529060628_init.cs",
+              "RelativeDocumentMoniker": "BMS\\Migrations\\20260529060628_init.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20260529060628_init.cs",
+              "RelativeToolTip": "BMS\\Migrations\\20260529060628_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:06:28.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260529055632_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20260529055632_init.cs",
+              "RelativeDocumentMoniker": "BMS\\Migrations\\20260529055632_init.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CRUD TEMP\\BMS\\BMS\\Migrations\\20260529055632_init.cs",
+              "RelativeToolTip": "BMS\\Migrations\\20260529055632_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T05:56:32.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
